@@ -26,20 +26,7 @@ import CartWidget from '../components/CartWidget'
    width:"20px",
    height:"20px"
  }
-
-// // Declaro la función IconoCarrito unicamente para el ícono
-
-// function IconoCarrito() {
-//     return(
-//         <svg {...atributosIconoCarrito}>
-//             <path {...pathIconoCarrito}>
-//             </path>
-//         </svg>
-//     )
-// }
-
-// Importo un navbar de bootstrap
-
+ 
 function NavBar() {
     return(
         <header className="p-3 bg-dark text-white">
