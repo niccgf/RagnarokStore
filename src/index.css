@@ -51,4 +51,4 @@ span::after {
 
 #touch {position: absolute; opacity: 0; height: 0px;}    
 
-#touch:checked + .slide {height: 300px;} 
+#touch:checked + .slide {height: 300px;}
