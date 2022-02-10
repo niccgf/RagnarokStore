@@ -7,6 +7,7 @@ function App() {
     <main>
       <NavBar/>;
       <ItemListContainer/>
+      <ItemListContainer texto="Este es un texto simple de prueba"/>
     </main>
   );
 }
